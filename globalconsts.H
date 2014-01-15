@@ -1,0 +1,9 @@
+#ifndef GLOBALCONSTS_H
+#define GLOBALCONSTS_H
+
+#define WINWIDTH 400
+#define WINHEIGHT 500
+
+
+
+#endif // GLOBALCONSTS_H
